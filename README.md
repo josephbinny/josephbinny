@@ -1,4 +1,10 @@
-## Hi there 👋
+# Hello, I'm Joseph Binny! 👋
+
+## About Me
+I am a passionate Machine Learning Engineer and Data Scientist with a strong foundation in mathematics. I recently graduated with an M.S. in AI and hold a B.S. in Applied Mathematics with a minor in Computer Science.
+
+## Connect with me:
+- [LinkedIn](https://www.linkedin.com/in/joseph-binny)
 
 <!--
 **josephbinny/josephbinny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
